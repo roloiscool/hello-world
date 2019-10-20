@@ -1,4 +1,3 @@
-# hello-world
-initial project
+# hello-code
 
-Rosy here, I like to code and eat food.
+Who owns the land in Britain
